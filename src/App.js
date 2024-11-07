@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h3>the salt path</h3>
         <h3>feeding ghosts</h3>
-        <h3>managing up</h3>
+        <h3>question 7</h3>
       </header>
     </div>
   );
